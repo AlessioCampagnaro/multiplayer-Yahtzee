@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrea\\Desktop\\Pellizzari\\Yahtzee\\Yatzee\\Yatzee.csproj": {}
+    "C:\\Users\\Andrea\\Documents\\GitHub\\multiplayer-Yahtzee\\Yahtzee\\Yatzee\\Yatzee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrea\\Desktop\\Pellizzari\\Yahtzee\\Yatzee\\Yatzee.csproj": {
+    "C:\\Users\\Andrea\\Documents\\GitHub\\multiplayer-Yahtzee\\Yahtzee\\Yatzee\\Yatzee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrea\\Desktop\\Pellizzari\\Yahtzee\\Yatzee\\Yatzee.csproj",
+        "projectUniqueName": "C:\\Users\\Andrea\\Documents\\GitHub\\multiplayer-Yahtzee\\Yahtzee\\Yatzee\\Yatzee.csproj",
         "projectName": "Yatzee",
-        "projectPath": "C:\\Users\\Andrea\\Desktop\\Pellizzari\\Yahtzee\\Yatzee\\Yatzee.csproj",
+        "projectPath": "C:\\Users\\Andrea\\Documents\\GitHub\\multiplayer-Yahtzee\\Yahtzee\\Yatzee\\Yatzee.csproj",
         "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrea\\Desktop\\Pellizzari\\Yahtzee\\Yatzee\\obj\\",
+        "outputPath": "C:\\Users\\Andrea\\Documents\\GitHub\\multiplayer-Yahtzee\\Yahtzee\\Yatzee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
